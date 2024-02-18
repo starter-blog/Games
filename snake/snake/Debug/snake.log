@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\junyongchoi\documents\visual studio 2015\projects\snake\snake\source.cpp(18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  snake.vcxproj -> C:\Users\JunYongChoi\documents\visual studio 2015\Projects\snake\Debug\snake.exe
+  snake.vcxproj -> C:\Users\JunYongChoi\documents\visual studio 2015\Projects\snake\Debug\snake.pdb (Partial PDB)

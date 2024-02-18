@@ -1,0 +1,11 @@
+﻿  Magiccpp.cpp
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(188): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(289): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(302): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(324): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(337): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(355): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(368): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\junyongchoi\documents\visual studio 2015\projects\magician'swar\magician'swar\magiccpp.cpp(382): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Magician'sWar.vcxproj -> C:\Users\JunYongChoi\documents\visual studio 2015\Projects\Magician'sWar\Debug\Magician'sWar.exe
+  Magician'sWar.vcxproj -> C:\Users\JunYongChoi\documents\visual studio 2015\Projects\Magician'sWar\Debug\Magician'sWar.pdb (Partial PDB)
